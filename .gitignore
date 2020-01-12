@@ -90,5 +90,4 @@ fastlane/test_output
 iOSInjectionProject/
 APIKeys.swift
 .DS_Store
-CatLover\SecretKeys.swift
 CoffeeQuest\Resources\APIKeys
