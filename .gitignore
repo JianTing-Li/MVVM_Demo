@@ -88,3 +88,7 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+APIKeys.swift
+.DS_Store
+CatLover\SecretKeys.swift
+CoffeeQuest\Resources\APIKeys
